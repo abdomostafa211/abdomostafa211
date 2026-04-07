@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">Hello friend, That's Liam</h1>
-<h3 align="center">Pentester & Cybersecurity Enthusiast from Egypt</h3>
+<h3 align="center">Pentester & Cybersecurity Enthusiast</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
